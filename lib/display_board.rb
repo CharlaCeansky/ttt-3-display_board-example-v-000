@@ -3,9 +3,13 @@ def display_board
   puts "A Tic Tac Toe Board"
   row = '"   "+"   "+"   "'
   seperated = "-----------"
+  space = "   |   |   "
   puts row
+  puts space
   puts seperated
   puts row
+  puts space
   puts seperated
   puts row
+  puts space
 end

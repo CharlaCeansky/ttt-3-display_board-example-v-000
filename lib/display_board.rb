@@ -4,12 +4,12 @@ def display_board
   row = '"   "+"   "+"   "'
   seperated = "-----------"
   space = "   |   |   "
-  puts row
-  puts space
-  puts seperated
-  puts row
-  puts space
-  puts seperated
-  puts row
-  puts space
+  print row
+  print space
+  print seperated
+  print row
+  print space
+  print seperated
+  print row
+  print space
 end
